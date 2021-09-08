@@ -1,13 +1,16 @@
 def solution():
-  N,K = map(int,input().split())
-  cnt = 0
-  while(1):
-    if N % K != 0:
-      N = N-(N % K)
-      cnt = cnt + N % K
-    else:
-      N = N / K
-
-    if N == 1:
-      break
-  return cnt
+    N,K = map(int,input().split())
+    cnt = 0
+    while(N >= K):
+        if N % K != 0:
+            cnt += (N % K)
+            N = N - (N % K)
+        else:
+            N = N / K
+            cnt += 1
+        
+    if (1 < N < K):
+        cnt += (N-1)
+        # N = N - (N-1)
+    
+    return int(cnt)
