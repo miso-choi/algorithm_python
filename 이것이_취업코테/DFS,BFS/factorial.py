@@ -8,6 +8,7 @@ def factorial_iterative(n):
 
 # 재귀적으로 구현한 n!
 def factorial_recursive(n):
-  if n == 1:
+  # n은 0이상의 정수만 받음
+  if n <= 1:
     return 1
   return n*factorial_recursive(n-1)
