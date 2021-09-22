@@ -1,6 +1,6 @@
 ## Algorithm - Python  
 
-### [Programmers 코팅테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
+### [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
 
 | 알고리즘 | 문제 | 풀이여부
 | ---- | ---- | ---- |
