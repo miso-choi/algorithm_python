@@ -1,6 +1,6 @@
-## Algorithm - Python  
+## Algorithm - Python 💻  
 
-### [Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
+### ✔[Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
 
 | 알고리즘 | 문제 | 풀이여부
 | ---- | ---- | ---- |
@@ -17,4 +17,4 @@
 
 
 
-### 이것이 취업을 위한 코딩테스트다 (with 파이썬) - 나동빈 저자
+### ✔이것이 취업을 위한 코딩테스트다 (with 파이썬) - 나동빈 저자
