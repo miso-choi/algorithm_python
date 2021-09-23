@@ -23,9 +23,9 @@ def BFS(graph,start,visited):
     
     # 큐가 빌 때까지 반복
     while queue:
-        # 큐에서 원소 하나씩 뽑아 출력
+        # 큐에서 원소 하나씩 뽑아 출력 (FIFO)
         v = queue.popleft()
-        print(v,end=' ') # 옆으로 출력
+        print(v,end=' ')
         
         for i in graph[v]:   # 인접노드 중
             if not visited[i]:  # 방문 안한 노드
@@ -42,4 +42,4 @@ if __name__ == "__main__":
     visited = [False]*(n+1)
     
     graph = MakeGraph(n,edge)
-    BFS(graph,1,visited)  # 출력 결과: 1 2 7 6 8 3 4 5
+    BFS(graph,1,visited)  # 출력 결과: 1 2 3 8 7 4 5 6
