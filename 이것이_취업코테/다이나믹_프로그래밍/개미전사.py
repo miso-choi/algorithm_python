@@ -14,4 +14,4 @@ for i in range(2,n):
     d[i] = max(d[i-1], d[i-2]+arr[i])
 
 # arr 전체 (idx:0부터 n-1까지) 다 살펴본 결과, 최대 식량 수
-print(d[n-1])
+print(d[n-1]) 
