@@ -1,5 +1,10 @@
 ## Algorithm - Python 💻  
 
+### 목차
+[1. Programmers](#Programmers-코딩테스트-고득점-Kit)  
+[2. 이것이 취업을 위한 코딩테스트다](#45)  
+[3. 백준 OJ](#73)  
+
 ### ✔[Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
 
 | 알고리즘 | 문제 | 풀이여부
@@ -53,4 +58,20 @@
 | | [팩토리얼](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/DFS%2CBFS/factorial.py) | O
 | | [DFS](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/DFS%2CBFS/DFS.py) | O
 | | [BFS](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/DFS%2CBFS/BFS.py) | O
+| | [음료수 얼려먹기](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/DFS%2CBFS/%EC%9D%8C%EB%A3%8C%EC%88%98%EC%96%BC%EB%A0%A4%EB%A8%B9%EA%B8%B0.py) | O
+| | [미로탈출](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/DFS%2CBFS/%EB%AF%B8%EB%A1%9C%ED%83%88%EC%B6%9C.py) | O
 | 이진탐색 | [순차탐색](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89/%EC%88%9C%EC%B0%A8%ED%83%90%EC%83%89.py) | O
+| 다이나믹 프로그래밍 | 피보나치수열([반복적](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4_%EB%B0%98%EB%B3%B5%EC%A0%81.py),[재귀적](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%98%EC%97%B4_%EC%9E%AC%EA%B7%80%EC%A0%81.py)) | O
+| | [1로 만들기](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0.py) | O
+| | [개미전사](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B0%9C%EB%AF%B8%EC%A0%84%EC%82%AC.py) | O
+| | [바닥공사](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B0%94%EB%8B%A5%EA%B3%B5%EC%82%AC.py) | O
+| | 효율적인 화폐구성([sol1](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8_%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1.py),[sol2](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8_%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1_DP.py)) | O
+
+
+
+
+### ✔ [백준 OJ](https://www.acmicpc.net/)
+| 알고리즘 | 문제 | 풀이여부
+| ---- | ---- | ---- |
+| 동적계획법 | [정수삼각형](https://github.com/miso-choi/algorithm_python/blob/master/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py) | O
+| | [RGB 거리](https://github.com/miso-choi/algorithm_python/blob/master/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/RGB%EA%B1%B0%EB%A6%AC.py) | O
