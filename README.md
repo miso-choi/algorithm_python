@@ -1,8 +1,8 @@
 ## Algorithm - Python 💻  
 
-### 목차
+### 목차  
 #### [1. Programmers 코딩테스트 고득점 Kit](#Programmers-코딩테스트-고득점-Kit)  
-#### [2. 이것이 취업을 위한 코딩테스트다](#이것이-취업을-위한-코딩테스트다-(with-파이썬)---나동빈-저자)  
+#### [2. 이것이 취업을 위한 코딩테스트다](#✔이것이-취업을-위한-코딩테스트다-(with-파이썬)---나동빈-저자)  
 #### [3. 백준 OJ](#백준-OJ)   
 
 
@@ -75,7 +75,7 @@
 <br/>
 
 
-### ✔ [백준 OJ](https://www.acmicpc.net/)
+### ✔[백준 OJ](https://www.acmicpc.net/)
 | 알고리즘 | 문제 | 풀이여부
 | ---- | ---- | ---- |
 | 동적계획법 | [정수삼각형](https://github.com/miso-choi/algorithm_python/blob/master/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py) | O
