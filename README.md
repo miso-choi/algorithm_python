@@ -1,9 +1,12 @@
 ## Algorithm - Python 💻  
 
 ### 목차
-[1. Programmers](#Programmers-코딩테스트-고득점-Kit)  
-[2. 이것이 취업을 위한 코딩테스트다](#45)  
-[3. 백준 OJ](#73)  
+#### [1. Programmers 코딩테스트 고득점 Kit](#Programmers-코딩테스트-고득점-Kit)  
+#### [2. 이것이 취업을 위한 코딩테스트다](#이것이-취업을-위한-코딩테스트다)  
+#### [3. 백준 OJ](#백준-OJ)   
+
+
+* * *
 
 ### ✔[Programmers 코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
 
@@ -40,6 +43,7 @@
 
 
 
+<br/>  
 
 
 ### ✔이것이 취업을 위한 코딩테스트다 (with 파이썬) - 나동빈 저자
@@ -68,6 +72,7 @@
 | | 효율적인 화폐구성([sol1](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8_%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1.py),[sol2](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8_%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1_DP.py)) | O
 
 
+<br/>
 
 
 ### ✔ [백준 OJ](https://www.acmicpc.net/)
