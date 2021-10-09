@@ -80,3 +80,4 @@
 | ---- | ---- | ---- |
 | 동적계획법 | [정수삼각형](https://github.com/miso-choi/algorithm_python/blob/master/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py) | O
 | | [RGB 거리](https://github.com/miso-choi/algorithm_python/blob/master/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/RGB%EA%B1%B0%EB%A6%AC.py) | O
+| | [평범한 배낭](https://github.com/miso-choi/algorithm_python/blob/master/%EB%B0%B1%EC%A4%80/%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95/%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD.py) | O
