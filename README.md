@@ -70,6 +70,8 @@
 | | [개미전사](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B0%9C%EB%AF%B8%EC%A0%84%EC%82%AC.py) | O
 | | [바닥공사](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B0%94%EB%8B%A5%EA%B3%B5%EC%82%AC.py) | O
 | | 효율적인 화폐구성([sol1](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8_%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1.py),[sol2](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8_%ED%99%94%ED%8F%90%EA%B5%AC%EC%84%B1_DP.py)) | O
+| 정렬 | [선택정렬](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.py) | O
+| | [삽입정렬](https://github.com/miso-choi/algorithm_python/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4_%EC%B7%A8%EC%97%85%EC%BD%94%ED%85%8C/%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.py) | O
 
 
 <br/>
