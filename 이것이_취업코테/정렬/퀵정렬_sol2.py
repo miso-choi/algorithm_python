@@ -26,7 +26,7 @@ def quick_sort(arr):
     arr_left = arr[:right]
     arr_right = arr[right+1:]
 
-    return quick_sort(arr_left) + [pivot] + quick_sort(arr_right)
+    return quick_sort(arr_left) + [arr[right]] + quick_sort(arr_right)
     
 
 if __name__ == "__main__":
@@ -35,4 +35,3 @@ if __name__ == "__main__":
     sorted_arr = quick_sort(arr)
     print(sorted_arr)
     print("걸린 시간:", time.time()-start)
-    print(arr)
