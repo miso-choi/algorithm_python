@@ -18,4 +18,4 @@ def solution():
     if (1 <= r <= 8) and (1 <= c <= 8): 
       cnt += 1
 
-  return cnt
+  return cnt 
